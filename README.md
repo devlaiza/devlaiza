@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🤍 Olá, eu sou a Laiza!
+# ✨ Olá, eu sou a Laiza!
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas | Dev Web
 
 <p>
-  <img src="https://img.shields.io/badge/Foco-Dev_Web_&_Python-DDBEA9?style=for-the-badge&logoColor=3D312A" />
-  <img src="https://img.shields.io/badge/Status-Em_Evolução-FFE8D6?style=for-the-badge&logoColor=3D312A" />
+  <img src="https://img.shields.io/badge/Foco-Dev_Web_&_Python-B55342?style=for-the-badge&logoColor=F5EBE6" />
+  <img src="https://img.shields.io/badge/Status-Em_Evolução-D49B5B?style=for-the-badge&logoColor=231B19" />
 </p>
 
 ---
@@ -23,16 +23,16 @@
 
 ---
 
-### 🧋 Tecnologias e Ferramentas
+### 🏺 Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-DDBEA9?style=for-the-badge&logo=python&logoColor=3D312A" />
-  <img src="https://img.shields.io/badge/HTML5-FFE8D6?style=for-the-badge&logo=html5&logoColor=3D312A" />
-  <img src="https://img.shields.io/badge/CSS3-DDBEA9?style=for-the-badge&logo=css3&logoColor=3D312A" />
-  <img src="https://img.shields.io/badge/JavaScript-FFE8D6?style=for-the-badge&logo=javascript&logoColor=3D312A" />
-  <img src="https://img.shields.io/badge/C-DDBEA9?style=for-the-badge&logo=c&logoColor=3D312A" />
-  <img src="https://img.shields.io/badge/Git-FFE8D6?style=for-the-badge&logo=git&logoColor=3D312A" />
-  <img src="https://img.shields.io/badge/GitHub-3D312A?style=for-the-badge&logo=github&logoColor=FFE8D6" />
+  <img src="https://img.shields.io/badge/Python-B55342?style=for-the-badge&logo=python&logoColor=F5EBE6" />
+  <img src="https://img.shields.io/badge/HTML5-D49B5B?style=for-the-badge&logo=html5&logoColor=231B19" />
+  <img src="https://img.shields.io/badge/CSS3-B55342?style=for-the-badge&logo=css3&logoColor=F5EBE6" />
+  <img src="https://img.shields.io/badge/JavaScript-D49B5B?style=for-the-badge&logo=javascript&logoColor=231B19" />
+  <img src="https://img.shields.io/badge/C-4A2925?style=for-the-badge&logo=c&logoColor=F5EBE6" />
+  <img src="https://img.shields.io/badge/Git-B55342?style=for-the-badge&logo=git&logoColor=F5EBE6" />
+  <img src="https://img.shields.io/badge/GitHub-231B19?style=for-the-badge&logo=github&logoColor=D49B5B" />
 </p>
 
 ---
@@ -55,17 +55,17 @@ Este perfil é o meu espaço para reunir projetos, exercícios e experiências p
 ### 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=devlaiza&show_icons=true&theme=nord&bg_color=1F1A17&title_color=DDBEA9&icon_color=DDBEA9&text_color=E8D8CE&border_color=DDBEA9&include_all_commits=true" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlaiza&layout=compact&theme=nord&bg_color=1F1A17&title_color=DDBEA9&text_color=E8D8CE&border_color=DDBEA9" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=devlaiza&show_icons=true&bg_color=1C1615&title_color=D49B5B&icon_color=B55342&text_color=E8D5C4&border_color=B55342&include_all_commits=true" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlaiza&layout=compact&bg_color=1C1615&title_color=D49B5B&text_color=E8D5C4&border_color=B55342" />
 </p>
 
 ---
 
 <div align="center">
 
-### 🤍 Considerações Finais
+### 🍷 Considerações Finais
 
-🤍 **Obrigada por visitar meu perfil!**  
-*Aprendendo, criando e evoluindo, um projeto de cada vez.* ☕
+🤎 **Obrigada por visitar meu perfil!**  
+*Aprendendo, criando e evoluindo, um projeto de cada vez.* ✨
 
 </div>
